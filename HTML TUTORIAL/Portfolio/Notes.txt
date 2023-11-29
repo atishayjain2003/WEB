@@ -1,0 +1,16 @@
+1. Semantic Tags: Everything is clear from the name only
+Header, main, footer are semantic tags
+2. Non Semantic Tags: Everything is not clear from the name only
+3. Pre tag: Displaying the text as it is on the live server
+4. Section tag: For section on page
+5. Article tag: For article on page
+6. A href tag: use _main for new tab
+7. Img tag: height and width can be altered
+8. Div: It is a container and non semantic tag, it contains other tags in . It occupies the full width
+9. Span Tag: It doesnt acquire the full width (It is an inline element)
+10. Table tags:
+tr: table row, td: table data, th: table Header
+<Table>
+<th>Admission</th>
+<tr>Name</tr>
+<Td>
